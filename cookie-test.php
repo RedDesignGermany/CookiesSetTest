@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<--! Set a cookie for the TEST, otherwise disable the script -->
+<!-- Set a cookie for the TEST, otherwise disable the script -->
 <?php
 setcookie("test_cookie", "test", time() + 3600, '/');
 ?>
